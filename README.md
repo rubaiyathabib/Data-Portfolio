@@ -116,4 +116,4 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ## Conclusion
 
-This portfolio demonstrates my ability to analyze large datasets and visualize insights using industry-standard tools. Feel free to explore each project to see how I approach solving business problems with data!
+This portfolio demonstrates my ability to analyze large datasets and visualize insights using industry-standard tools. Feel free to explore each project to see how I approach solving problems with data!
