@@ -42,7 +42,19 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ---
 
-### 3. Web Scraping USA Companies' Revenue Data in Python with BeautifulSoup and Requests
+### 3. Monitoring and Detection of COVID-19 Using IoT and ML
+
+- **Overview**: Developed a machine learning-based system that detects COVID-19 based on cough data and wearable IoT devices.
+- **Tools Used**: Machine Learning (Python), IoT devices (hardware integration), Firebase (for database storage), Django (web framework).
+- **Key Insights**:
+  - Achieved high accuracy in COVID-19 detection using machine learning and real-time data from IoT devices.
+  - Demonstrated the potential of combining machine learning with IoT for health monitoring.
+  
+[Link to Project](https://github.com/al-mehedi-hasan-afridi/Monitoring-and-Detection-of-COVID-19-using-IoT-and-ML)
+
+---
+
+### 4. Web Scraping USA Companies' Revenue Data in Python with BeautifulSoup and Requests
 
 - **Overview**: Built a web scraper to collect revenue data of top USA companies from a publicly available website, storing the data for analysis.
 - **Tools Used**: Python (BeautifulSoup, Requests for web scraping).
@@ -51,18 +63,6 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
   - Analyzed revenue trends among top companies in different industries.
   
 [Link to Project](https://github.com/al-mehedi-hasan-afridi/Web-Scraping-USA-Companies-Revenue-data-in-Python-with-BeautifulSoup-and-Requests)
-
----
-
-### 4. Monitoring and Detection of COVID-19 Using IoT and ML
-
-- **Overview**: Developed a machine learning-based system that detects COVID-19 based on cough data and wearable IoT devices.
-- **Tools Used**: Machine Learning (Python), IoT devices (hardware integration), Firebase (for database storage), Django (web framework).
-- **Key Insights**:
-  - Achieved high accuracy in COVID-19 detection using real-time data from IoT devices.
-  - Demonstrated the potential of combining machine learning with IoT for health monitoring.
-  
-[Link to Project](https://github.com/al-mehedi-hasan-afridi/Monitoring-and-Detection-of-COVID-19-using-IoT-and-ML)
 
 ---
 
