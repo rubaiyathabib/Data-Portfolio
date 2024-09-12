@@ -23,8 +23,8 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 - **Overview**: Analyzed hotel revenue data from 2018-2020, working with over 100k records to identify trends in room occupancy, pricing, and revenue generation.
 - **Tools Used**: SQL (for data extraction and cleaning), Power BI (for data visualization).
 - **Key Insights**:
-  - Determined which room types and seasons generated the highest revenue.
-  - Provided recommendations to optimize pricing strategies for underperforming room types.
+  - Determined which hotel types, customer types, and seasons generated the highest revenue.
+  - Detected which months have more customers than usual.
   
 [Link to Project](https://github.com/al-mehedi-hasan-afridi/Hotel-Revenue-Analysis-Using-SQL-PowerBI)
 
@@ -36,7 +36,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 - **Tools Used**: Python (Pandas for data cleaning and analysis), SQL (for querying the database), Power BI (for creating an interactive dashboard).
 - **Key Insights**:
   - Identified top-selling products and regions, helping the company refocus its marketing efforts.
-  - Detected seasonal trends, suggesting improvements to inventory management.
+  - Detected seasonal trends.
   
 [Link to Project](https://github.com/al-mehedi-hasan-afridi/Retail-Product-Sales-Analysis-Using-Python-SQL-PowerBI)
 
@@ -72,7 +72,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 - **Tools Used**: Power BI.
 - **Key Insights**:
   - Uncovered patterns in customer buying behavior based on demographics.
-  - Recommended targeted marketing strategies based on customer segmentation.
+  - Identified the product category with the highest sales and the most frequently used payment method.
   
 [Link to Project](https://github.com/al-mehedi-hasan-afridi/Store-Ecommerce-Sales-Analysis-Using-PowerBI)
 
