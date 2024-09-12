@@ -2,34 +2,7 @@ Data Analytics Portfolio
 Welcome to my data analytics portfolio! This repository showcases a collection of my data analysis and visualization projects, demonstrating my proficiency with tools such as SQL, Python, Power BI, Tableau, and Excel. Each project includes datasets, code, and dashboards that analyze and visualize data to derive actionable insights.
 
 Table of Contents
-Hotel Revenue Analysis (SQL, Power BI)
-Retail Product Sales Analysis (Python, SQL, Power BI)
-Web Scraping USA Companies' Revenue Data (Python)
-Monitoring and Detection of COVID-19 (IoT, ML)
-Store E-commerce Sales Analysis (Power BI)
-Product Sales Analysis (Tableau)
-House Sales Analysis (Tableau)
-Bike Sales Analysis (Excel)
-Project Overviews
-1. Hotel Revenue Analysis Using SQL & Power BI
-Overview: Analyzed hotel revenue data to identify trends in room occupancy, pricing, and revenue over time.
-Tools Used: SQL (for data extraction and cleaning), Power BI (for data visualization).
-Key Insights:
-Determined which room types and seasons brought in the highest revenue.
-Provided recommendations to optimize pricing strategies for underperforming room types.
-Link to Project
-
-
-
-
-
-
-
-Data Analytics Portfolio
-Welcome to my data analytics portfolio! This repository showcases a collection of my data analysis and visualization projects, demonstrating my proficiency with tools such as SQL, Python, Power BI, Tableau, and Excel. Each project includes datasets, code, and dashboards that analyze and visualize data to derive actionable insights.
-
-Table of Contents
-Hotel Revenue Analysis (SQL, Power BI)
+#Hotel Revenue Analysis (SQL, Power BI)
 Retail Product Sales Analysis (Python, SQL, Power BI)
 Web Scraping USA Companies' Revenue Data (Python)
 Monitoring and Detection of COVID-19 (IoT, ML)
