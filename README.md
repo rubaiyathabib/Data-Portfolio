@@ -20,7 +20,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ### 1. Hotel Revenue Analysis Using SQL & Power BI
 
-- **Overview**: Analyzed hotel revenue data from 2022, working with over 50,000 records to identify trends in room occupancy, pricing, and revenue generation.
+- **Overview**: Analyzed hotel revenue data from 2018-2020, working with over 100k records to identify trends in room occupancy, pricing, and revenue generation.
 - **Tools Used**: SQL (for data extraction and cleaning), Power BI (for data visualization).
 - **Key Insights**:
   - Determined which room types and seasons generated the highest revenue.
@@ -32,7 +32,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ### 2. Retail Product Sales Analysis Using Python, SQL & Power BI
 
-- **Overview**: Analyzed retail product sales data from 2023, using a dataset of over 100,000 records to understand product performance across different regions and seasons.
+- **Overview**: Analyzed retail product sales data from 2022-2023, using a dataset of approximately 10k records to understand product performance across different regions and seasons.
 - **Tools Used**: Python (Pandas for data cleaning and analysis), SQL (for querying the database), Power BI (for creating an interactive dashboard).
 - **Key Insights**:
   - Identified top-selling products and regions, helping the company refocus its marketing efforts.
@@ -68,7 +68,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ### 5. Store E-commerce Sales Analysis Using Power BI
 
-- **Overview**: Created an interactive Power BI dashboard to analyze store e-commerce sales with a dataset of over 70,000 transactions, focusing on customer demographics and product categories.
+- **Overview**: Created an interactive Power BI dashboard to analyze store e-commerce sales with a dataset of over 1.5k records, focusing on customer demographics and product categories.
 - **Tools Used**: Power BI.
 - **Key Insights**:
   - Uncovered patterns in customer buying behavior based on demographics.
@@ -80,7 +80,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ### 6. Product Sales Analysis Using Tableau
 
-- **Overview**: Analyzed product sales data using a dataset of over 120,000 records to understand key product drivers and customer preferences. 
+- **Overview**: Analyzed product sales data using a dataset of approximately 300k records to understand key product drivers and customer preferences. 
 - **Tools Used**: Tableau.
 - **Key Insights**:
   - Identified key products driving revenue growth.
@@ -92,7 +92,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ### 7. House Sales Analysis Using Tableau
 
-- **Overview**: Analyzed house sales data from 2014-2015 in the USA, using a dataset of 25,000+ records to identify trends and patterns in house prices and sales volume.
+- **Overview**: Analyzed house sales data from 2014-2015 in the USA, using a dataset of more than 21k records to identify trends and patterns in house prices and sales volume.
 - **Tools Used**: Tableau.
 - **Key Insights**:
   - Found correlations between house prices, location, year built, and square footage.
@@ -104,7 +104,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ### 8. Bike Sales Analysis Using Excel
 
-- **Overview**: Analyzed bike sales data using over 10,000 records to uncover trends in customer preferences and seasonal demand.
+- **Overview**: Analyzed bike sales data using over 1k records to uncover trends in customer preferences and seasonal demand.
 - **Tools Used**: Excel (PivotTables, Charts).
 - **Key Insights**:
   - Highlighted seasonal demand patterns for bikes.
