@@ -1,4 +1,6 @@
-# Data Analytics Portfolio
+<p align="center">
+  <strong>Data Analytics Portfolio</strong>
+</p>
 
 Welcome to my data analytics portfolio! This repository showcases a collection of my data analysis and visualization projects, demonstrating my proficiency with tools such as SQL, Python, Power BI, Tableau, and Excel. Each project includes datasets, code, and dashboards that analyze and visualize data to derive actionable insights.
 
