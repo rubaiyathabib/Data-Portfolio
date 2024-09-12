@@ -4,14 +4,14 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ## Table of Contents
 
-1. [Hotel Revenue Analysis (SQL, Power BI)](#hotel-revenue-analysis-using-sql--powerbi)
-2. [Retail Product Sales Analysis (Python, SQL, Power BI)](#retail-product-sales-analysis-using-python-sql--powerbi)
-3. [Web Scraping USA Companies' Revenue Data (Python)](#web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
-4. [Monitoring and Detection of COVID-19 (IoT, ML)](#monitoring-and-detection-of-covid-19-using-iot-and-ml)
-5. [Store E-commerce Sales Analysis (Power BI)](#store-ecommerce-sales-analysis-using-powerbi)
-6. [Product Sales Analysis (Tableau)](#product-sales-analysis-using-tableau)
-7. [House Sales Analysis (Tableau)](#house-sales-analysis-using-tableau)
-8. [Bike Sales Analysis (Excel)](#bike-sales-analysis-using-excel)
+1. [Hotel Revenue Analysis (SQL, Power BI)](#1-hotel-revenue-analysis-using-sql--power-bi)
+2. [Retail Product Sales Analysis (Python, SQL, Power BI)](#2-retail-product-sales-analysis-using-python-sql--power-bi)
+3. [Web Scraping USA Companies' Revenue Data (Python)](#3-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
+4. [Monitoring and Detection of COVID-19 (IoT, ML)](#4-monitoring-and-detection-of-covid-19-using-iot-and-ml)
+5. [Store E-commerce Sales Analysis (Power BI)](#5-store-e-commerce-sales-analysis-using-power-bi)
+6. [Product Sales Analysis (Tableau)](#6-product-sales-analysis-using-tableau)
+7. [House Sales Analysis (Tableau)](#7-house-sales-analysis-using-tableau)
+8. [Bike Sales Analysis (Excel)](#8-bike-sales-analysis-using-excel)
 
 ---
 
@@ -41,7 +41,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ---
 
-### 3. Web Scraping USA Companies Revenue Data in Python with BeautifulSoup and Requests
+### 3. Web Scraping USA Companies' Revenue Data in Python with BeautifulSoup and Requests
 
 - **Overview**: Built a web scraper to collect revenue data of top USA companies from a publicly available website, storing the data for analysis.
 - **Tools Used**: Python (BeautifulSoup, Requests for web scraping).
