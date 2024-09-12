@@ -22,7 +22,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 - **Overview**: Analyzed hotel revenue data to identify trends in room occupancy, pricing, and revenue over time.
 - **Tools Used**: SQL (for data extraction and cleaning), Power BI (for data visualization).
 - **Key Insights**:
-  - Determined which room types and seasons brought in the highest revenue.
+  - Determined which room types and seasons generated the highest revenue.
   - Provided recommendations to optimize pricing strategies for underperforming room types.
   
 [Link to Project](https://github.com/al-mehedi-hasan-afridi/Hotel-Revenue-Analysis-Using-SQL-PowerBI)
@@ -35,7 +35,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 - **Tools Used**: Python (Pandas for data cleaning and analysis), SQL (for querying the database), Power BI (for creating an interactive dashboard).
 - **Key Insights**:
   - Identified top-selling products and regions, helping the company refocus its marketing efforts.
-  - Detected seasonal trends, suggesting changes to inventory management.
+  - Detected seasonal trends, suggesting improvements to inventory management.
   
 [Link to Project](https://github.com/al-mehedi-hasan-afridi/Retail-Product-Sales-Analysis-Using-Python-SQL-PowerBI)
 
@@ -94,7 +94,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 - **Overview**: Analyzed house sales data to uncover trends in pricing and sales volume across different regions in the USA.
 - **Tools Used**: Tableau.
 - **Key Insights**:
-  - Found correlations between house prices and location, year built, and square footage.
+  - Found correlations between house prices, location, year built, and square footage.
   - Recommended price adjustments for properties in different markets.
   
 [Link to Project](https://github.com/al-mehedi-hasan-afridi/House-Sales-Analysis-Using-Tableau)
