@@ -9,7 +9,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 2. [Retail Product Sales Analysis (Python, SQL, Power BI)](#2-retail-product-sales-analysis-using-python-sql--power-bi)
 3. [Monitoring and Detection of COVID-19 (IoT, ML)](#3-monitoring-and-detection-of-covid-19-using-iot-and-ml)
 4. [Web Scraping USA Companies' Revenue Data (Python)](#4-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
-5. [Web Scraping Random Functions Descriptions Data (Python)](#5-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
+5. [Web Scraping Random Functions' Descriptions Data (Python)](#5-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
 6. [Store E-commerce Sales Analysis (Power BI)](#6-store-e-commerce-sales-analysis-using-power-bi)
 7. [Product Sales Analysis (Tableau)](#7-product-sales-analysis-using-tableau)
 8. [House Sales Analysis (Tableau)](#8-house-sales-analysis-using-tableau)
@@ -67,7 +67,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ---
 
-### 5. Web Scraping Random Functions Descriptions Data in Python with BeautifulSoup and Reject
+### 5. Web Scraping Random Functions' Descriptions Data in Python with BeautifulSoup and Reject
 
 - **Overview**: Developed a Python script to scrape random function descriptions from web pages using BeautifulSoup. The script automates data collection for analysis, filtering out irrelevant content to focus on meaningful information.
 - **Tools Used**: Python, BeautifulSoup, Rejects.
