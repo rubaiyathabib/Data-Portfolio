@@ -8,7 +8,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 1. [Hotel Revenue Analysis (SQL, Power BI)](#1-hotel-revenue-analysis-using-sql--power-bi)
 2. [Retail Product Sales Analysis (Python, SQL, Power BI)](#2-retail-product-sales-analysis-using-python-sql--power-bi)
 3. [Monitoring and Detection of COVID-19 (IoT, ML)](#3-monitoring-and-detection-of-covid-19-using-iot-and-ml)
-4. [Web Scraping Random Functions Descriptions Data in Python with BeautifulSoup and Reject](#4-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
+4. [Web Scraping Random Functions Descriptions Data in Python with BeautifulSoup and Reject (Python)](#4-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
 5. [Web Scraping USA Companies' Revenue Data (Python)](#5-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
 6. [Store E-commerce Sales Analysis (Power BI)](#6-store-e-commerce-sales-analysis-using-power-bi)
 7. [Product Sales Analysis (Tableau)](#7-product-sales-analysis-using-tableau)
@@ -55,7 +55,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ---
 
-### 4. Web Scraping Random Functions Descriptions Data in Python with BeautifulSoup and Reject
+### 4. Web Scraping USA Companies' Revenue Data in Python with BeautifulSoup and Requests
 
 - **Overview**: Built a web scraper to collect revenue data of top USA companies from a publicly available website, storing the data for analysis.
 - **Tools Used**: Python (BeautifulSoup, Requests for web scraping).
@@ -63,22 +63,22 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
   - Automated the data collection process, saving hours of manual effort.
   - Analyzed revenue trends among top companies in different industries.
   
-[Link to Project](https://github.com/al-mehedi-hasan-afridi/Web-Scraping-Random-Functions-Descriptions-Data-in-Python-with-BeautifulSoup-and-Reject)
+[Link to Project](https://github.com/al-mehedi-hasan-afridi/Web-Scraping-USA-Companies-Revenue-data-in-Python-with-BeautifulSoup-and-Requests)
 
 ---
 
-### 5. Web Scraping USA Companies' Revenue Data in Python with BeautifulSoup and Requests
+### 5. Web Scraping Random Functions Descriptions Data in Python with BeautifulSoup and Reject
 
 - **Overview**: Developed a Python script to scrape random function descriptions from web pages using BeautifulSoup. The script automates data collection for analysis, filtering out irrelevant content to focus on meaningful information.
-
 - **Tools Used**: Python, BeautifulSoup, Rejects.
-
 - **Key Insights**:
   - Efficiently extracted and organized function descriptions from various sources.
   - Improved data quality by implementing rejection filters to eliminate noise and irrelevant information.
   - Demonstrated effective web scraping techniques and data processing for enhanced information retrieval.
 
-[Link to Project](https://github.com/al-mehedi-hasan-afridi/Web-Scraping-USA-Companies-Revenue-data-in-Python-with-BeautifulSoup-and-Requests)
+[Link to Project](https://github.com/al-mehedi-hasan-afridi/Web-Scraping-Random-Functions-Descriptions-Data-in-Python-with-BeautifulSoup-and-Reject)
+
+---
 
 ### 6. Store E-commerce Sales Analysis Using Power BI
 
