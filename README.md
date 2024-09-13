@@ -70,7 +70,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 ### 5. Web Scraping Random Functions' Descriptions Data in Python with BeautifulSoup and Reject
 
 - **Overview**: Developed a Python script to scrape random function descriptions from web pages using BeautifulSoup. The script automates data collection for analysis, filtering out irrelevant content to focus on meaningful information.
-- **Tools Used**: Python, BeautifulSoup, Rejects.
+- **Tools Used**: Python, BeautifulSoup, Reject.
 - **Key Insights**:
   - Efficiently extracted and organized function descriptions from various sources.
   - Improved data quality by implementing rejection filters to eliminate noise and irrelevant information.
