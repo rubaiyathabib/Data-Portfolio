@@ -66,6 +66,33 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ---
 
+### 4. Web Scraping USA Companies' Revenue Data in Python with BeautifulSoup and Requests
+
+- **Overview**: Developed a Python script to scrape random function descriptions from web pages using BeautifulSoup. The script automates data collection for analysis, filtering out irrelevant content to focus on meaningful information.
+
+- **Tools Used**: Python, BeautifulSoup, Rejects.
+
+- **Key Insights**:
+  - Efficiently extracted and organized function descriptions from various sources.
+  - Improved data quality by implementing rejection filters to eliminate noise and irrelevant information.
+  - Demonstrated effective web scraping techniques and data processing for enhanced information retrieval.
+
+[Link to Project](https://github.com/al-mehedi-hasan-afridi/Web-Scraping-USA-Companies-Revenue-data-in-Python-with-BeautifulSoup-and-Requests)
+
+---
+
+### 4. Web Scraping USA Companies' Revenue Data in Python with BeautifulSoup and Requests
+
+- **Overview**: Built a web scraper to collect revenue data of top USA companies from a publicly available website, storing the data for analysis.
+- **Tools Used**: Python (BeautifulSoup, Requests for web scraping).
+- **Key Insights**:
+  - Automated the data collection process, saving hours of manual effort.
+  - Analyzed revenue trends among top companies in different industries.
+  
+[Link to Project](https://github.com/al-mehedi-hasan-afridi/Web-Scraping-USA-Companies-Revenue-data-in-Python-with-BeautifulSoup-and-Requests)
+
+---
+
 ### 5. Store E-commerce Sales Analysis Using Power BI
 
 - **Overview**: Created an interactive Power BI dashboard to analyze store e-commerce sales with a dataset of over 1.5k records, focusing on customer demographics and product categories.
