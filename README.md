@@ -34,11 +34,11 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ### 2. Product Sales Analysis Using SQL & Power BI
 
-- **Overview**: Analyzed retail product sales data from 2022-2023, using a dataset of approximately 10k records to understand product performance across different regions and seasons.
-- **Tools Used**: Python (Pandas for data cleaning and analysis), SQL (for querying the database), Power BI (for creating an interactive dashboard).
+- **Overview**: Analyzed product sales data from 2020-2024 to identify trends in product demand, sales performance across regions, and customer purchasing patterns.
+- **Tools Used**: SQL (for querying the database, data extraction, and cleaning), Power BI (for creating an interactive dashboard).
 - **Key Insights**:
-  - Identified top-selling products and regions, helping the company refocus its marketing efforts.
-  - Detected seasonal trends.
+  - Identified trends across product categories, customer demographics, and regional sales.
+  - Analyzed sales budget versus actual performance.
   
 [Link to Project](https://github.com/al-mehedi-hasan-afridi/Product-Sales-Analysis-Using-SQL-PowerBI)
 
