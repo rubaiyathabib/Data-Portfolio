@@ -5,34 +5,22 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ## Table of Contents
 
-1. [Hotel Revenue Analysis (SQL, Power BI)](#1-hotel-revenue-analysis-using-sql--power-bi)
-2. [Product Sales Analysis (SQL, PowerBI)](#2-product-sales-analysis-using-sql--power-bi)
-3. [Retail Product Sales Analysis (Python, SQL, Power BI)](#2-retail-product-sales-analysis-using-python-sql--power-bi)
-4. [Monitoring and Detection of COVID-19 (IoT, ML)](#3-monitoring-and-detection-of-covid-19-using-iot-and-ml)
-5. [Web Scraping USA Companies' Revenue Data (Python)](#4-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
-6. [Web Scraping Random Functions' Descriptions Data (Python)](#5-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
-7. [Store E-commerce Sales Analysis (Power BI)](#6-store-e-commerce-sales-analysis-using-power-bi)
-8. [Product Sales Analysis (Tableau)](#7-product-sales-analysis-using-tableau)
-9. [House Sales Analysis (Tableau)](#8-house-sales-analysis-using-tableau)
-10. [Bike Sales Analysis (Excel)](#9-bike-sales-analysis-using-excel)
+1. [Product Sales Analysis (SQL, PowerBI)](#1-product-sales-analysis-using-sql--power-bi)
+2. [Hotel Revenue Analysis (SQL, Power BI)](#2-hotel-revenue-analysis-using-sql--power-bi)
+3. [Retail Product Sales Analysis (Python, SQL, Power BI)](#3-retail-product-sales-analysis-using-python-sql--power-bi)
+4. [Monitoring and Detection of COVID-19 (IoT, ML)](#4-monitoring-and-detection-of-covid-19-using-iot-and-ml)
+5. [Web Scraping USA Companies' Revenue Data (Python)](#5-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
+6. [Web Scraping Random Functions' Descriptions Data (Python)](#6-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
+7. [Store E-commerce Sales Analysis (Power BI)](#7-store-e-commerce-sales-analysis-using-power-bi)
+8. [Product Sales Analysis (Tableau)](#8-product-sales-analysis-using-tableau)
+9. [House Sales Analysis (Tableau)](#9-house-sales-analysis-using-tableau)
+10. [Bike Sales Analysis (Excel)](#10-bike-sales-analysis-using-excel)
 
 ---
 
 ## Project Overviews
 
-### 1. Hotel Revenue Analysis Using SQL & Power BI
-
-- **Overview**: Analyzed hotel revenue data from 2018-2020, working with over 100k records to identify trends in room occupancy, pricing, and revenue generation.
-- **Tools Used**: SQL (for data extraction and cleaning), Power BI (for data visualization).
-- **Key Insights**:
-  - Determined which hotel types, customer types, and seasons generated the highest revenue.
-  - Detected which months have more customers than usual.
-  
-[Link to Project](https://github.com/al-mehedi-hasan-afridi/Hotel-Revenue-Analysis-Using-SQL-PowerBI)
-
----
-
-### 2. Product Sales Analysis Using SQL & Power BI
+### 1. Product Sales Analysis Using SQL & Power BI
 
 - **Overview**: Analyzed product sales data from 2020-2024 to identify trends in product demand, sales performance across regions, and customer purchasing patterns.
 - **Tools Used**: SQL (for querying the database, data extraction, and cleaning), Power BI (for creating an interactive dashboard).
@@ -43,6 +31,16 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 [Link to Project](https://github.com/al-mehedi-hasan-afridi/Product-Sales-Analysis-Using-SQL-PowerBI)
 
 ---
+
+### 2. Hotel Revenue Analysis Using SQL & Power BI
+
+- **Overview**: Analyzed hotel revenue data from 2018-2020, working with over 100k records to identify trends in room occupancy, pricing, and revenue generation.
+- **Tools Used**: SQL (for data extraction and cleaning), Power BI (for data visualization).
+- **Key Insights**:
+  - Determined which hotel types, customer types, and seasons generated the highest revenue.
+  - Detected which months have more customers than usual.
+  
+[Link to Project](https://github.com/al-mehedi-hasan-afridi/Hotel-Revenue-Analysis-Using-SQL-PowerBI)
 
 ---
 
