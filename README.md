@@ -7,7 +7,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 1. [Product Sales Analysis (SQL, PowerBI)](#1-product-sales-analysis-using-sql--power-bi)
 2. [Hotel Revenue Analysis (SQL, Power BI)](#2-hotel-revenue-analysis-using-sql--power-bi)
-3. [Retail Product Sales Analysis (Python, SQL, Power BI)](#3-retail-product-sales-analysis-using-python-sql--power-bi)
+3. [Retail Product Sales Analysis (Python, Power BI)](#3-retail-product-sales-analysis-using-python--power-bi)
 4. [Monitoring and Detection of COVID-19 (IoT, ML)](#4-monitoring-and-detection-of-covid-19-using-iot-and-ml)
 5. [Web Scraping USA Companies' Revenue Data (Python)](#5-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
 6. [Web Scraping Random Functions' Descriptions Data (Python)](#6-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
@@ -44,7 +44,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ---
 
-### 3. Retail Product Sales Analysis Using Python, SQL & Power BI
+### 3. Retail Product Sales Analysis Using Python & Power BI
 
 - **Overview**: Analyzed retail product sales data from 2022-2023, using a dataset of approximately 10k records to understand product performance across different regions and seasons.
 - **Tools Used**: Python (Pandas for data cleaning and analysis), SQL (for querying the database), Power BI (for creating an interactive dashboard).
@@ -52,7 +52,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
   - Identified top-selling products and regions, helping the company refocus its marketing efforts.
   - Detected seasonal trends.
   
-[Link to Project](https://github.com/al-mehedi-hasan-afridi/Retail-Product-Sales-Analysis-Using-Python-SQL-PowerBI)
+[Link to Project](https://github.com/al-mehedi-hasan-afridi/Retail-Product-Sales-Analysis-Using-Python-PowerBI)
 
 ---
 
